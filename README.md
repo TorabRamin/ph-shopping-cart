@@ -1,1 +1,1 @@
-"# Shoping Cart project"
+# Shoping Cart project
